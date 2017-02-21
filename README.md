@@ -1,6 +1,6 @@
 # EMAX Redesign
 
-Live Demo : https://sibaturaspirman.github.io/emax-redesign/
+Live Demo : https://sibaturaspirman.github.io/emax-redesign/<br>
 
 #DESCRIPTION
 Title : Weekly UI/UX @sibaturAspIrman #4 (PNG files + HTML,CSS,JS) <br>
