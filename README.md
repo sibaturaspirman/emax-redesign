@@ -4,7 +4,7 @@ Title : Weekly UI/UX @sibaturAspIrman #4 (PNG files + HTML,CSS,JS) <br>
 Case Study : Redesign Official Site EMAX Indonesia (emax.co.id)<br>
 Author : Asep Irman<br>
 Download : http://bit.ly/2mhIdnB<br>
-Full Package : http://bit.ly/2iD81Za<br>
+Full Package : http://bit.ly/2iD81Za (All Weekly UI/UX @sibaturAspIrman)<br>
 <br>
 #CONTACT
 WhatsApp : 0812 8700 6375<br>
