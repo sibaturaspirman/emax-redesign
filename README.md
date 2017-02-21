@@ -1,4 +1,7 @@
 # EMAX Redesign
+
+Live Demo : https://sibaturaspirman.github.io/emax-redesign/
+
 #DESCRIPTION
 Title : Weekly UI/UX @sibaturAspIrman #4 (PNG files + HTML,CSS,JS) <br>
 Case Study : Redesign Official Site EMAX Indonesia (emax.co.id)<br>
