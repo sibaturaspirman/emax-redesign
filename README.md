@@ -18,7 +18,7 @@ LinkedIn : https://www.linkedin.com/in/sibaturaspirman<br>
 Github : https://github.com/sibaturaspirman<br>
 <br>
 #PORTFOLIO
-Website : http://sibatur.com/<br>
+Website : http://sibatur.com/ or https://sibaturaspirman.github.io<br>
 Pinterest : https://id.pinterest.com/sibaturaspirman<br>
 Behance : https://www.behance.net/sibaturasepirman<br>
 Kreavi : http://www.kreavi.com/sibaturaspirman<br>
