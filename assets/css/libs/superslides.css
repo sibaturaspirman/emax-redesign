@@ -1,0 +1,63 @@
+/*SUPERSLIDES*/
+#superSlides{
+  position: relative;
+  background-color: #F0F0F0;
+}
+  #superSlides .slides-container{
+    *display: none;
+  }
+    #superSlides .slides-container a{
+      display: block;
+    }
+      #superSlides .slides-container a figure{}
+        #superSlides .slides-container a figure figcaption{
+          opacity: 0;
+        }
+
+  #superSlides .slides-navigation{
+    margin: 0 auto;
+    position: absolute;
+    z-index: 3;
+    top: 46%;
+    width: 100%;
+  }
+    #superSlides .slides-navigation a{
+      position: absolute;
+      display: block;
+      width:74px;
+      height: 74px;
+      font-size: 3.4em;
+      color: #AFAFAF;
+    }
+      #superSlides .slides-navigation a.prev{
+        left: 4px;
+      }
+      #superSlides .slides-navigation a.next{
+        right: 4px;
+      }
+
+  #superSlides .slides-pagination {
+    position: absolute;
+    z-index: 3;
+    bottom: 96px;
+    text-align: center;
+    width: 100%;
+  }
+    #superSlides .slides-pagination a{
+      border: 1px solid #2B2623;
+      border-radius: 15px;
+      width: 15px;
+      height: 15px;
+      display: -moz-inline-stack;
+      display: inline-block;
+      vertical-align: middle;
+      zoom: 1;
+      margin: 4px;
+      overflow: hidden;
+      text-indent: -200%;
+      color: #fff;
+    }
+    #superSlides .slides-pagination a.current{
+      background: #2B2623;
+    }
+/*!SUPERSLIDES*/
